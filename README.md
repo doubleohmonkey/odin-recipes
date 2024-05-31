@@ -1,2 +1,3 @@
 # odin-recipes
-Recipe website repo
+
+This is the recipes project website for the odin project.
